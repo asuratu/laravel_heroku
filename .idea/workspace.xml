@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/Laravel/public/index.php.bak">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-731">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -141,17 +141,6 @@
               <item name="laravel0102" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel0102" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="laravel0102" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel0102" type="462c0819:PsiDirectoryNode" />
-              <item name="Laravel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel0102" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel0102" type="462c0819:PsiDirectoryNode" />
-              <item name="Laravel" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -164,6 +153,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -193,24 +183,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546407915283</updated>
-      <workItem from="1546407917237" duration="1816000" />
+      <workItem from="1546407917237" duration="2624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1816000" />
+    <option name="totallyTimeSpent" value="2624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -232,7 +221,7 @@
     <entry file="file://$PROJECT_DIR$/Laravel/public/index.php.bak">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-731">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
